@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zonix480/LandingFinances/static/css/main.2cf14501.css",
+    "main.js": "/zonix480/LandingFinances/static/js/main.2d727e0d.js",
+    "static/js/453.f85ba7ea.chunk.js": "/zonix480/LandingFinances/static/js/453.f85ba7ea.chunk.js",
+    "static/media/celular.png": "/zonix480/LandingFinances/static/media/celular.a36fae3ede691b8f0ab6.png",
+    "static/media/background.jpg": "/zonix480/LandingFinances/static/media/background.ec2e60fd6d9e31e81f49.jpg",
+    "index.html": "/zonix480/LandingFinances/index.html",
+    "main.2cf14501.css.map": "/zonix480/LandingFinances/static/css/main.2cf14501.css.map",
+    "main.2d727e0d.js.map": "/zonix480/LandingFinances/static/js/main.2d727e0d.js.map",
+    "453.f85ba7ea.chunk.js.map": "/zonix480/LandingFinances/static/js/453.f85ba7ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf14501.css",
+    "static/js/main.2d727e0d.js"
+  ]
+}
