@@ -2,7 +2,7 @@
   "name": "fintech-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/zonix480/LandingFinances",
+  "homepage": "https://monai.com/",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.10",
     "@testing-library/dom": "^10.4.0",
