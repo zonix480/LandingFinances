@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.e582eeec.css",
-    "main.js": "/static/js/main.a958a798.js",
-    "static/js/453.f85ba7ea.chunk.js": "/static/js/453.f85ba7ea.chunk.js",
-    "static/media/celular.png": "/static/media/celular.a36fae3ede691b8f0ab6.png",
-    "static/media/background.jpg": "/static/media/background.ec2e60fd6d9e31e81f49.jpg",
-    "index.html": "/index.html",
-    "main.e582eeec.css.map": "/static/css/main.e582eeec.css.map",
-    "main.a958a798.js.map": "/static/js/main.a958a798.js.map",
-    "453.f85ba7ea.chunk.js.map": "/static/js/453.f85ba7ea.chunk.js.map"
+    "main.css": "/LandingFinances/static/css/main.8a739c81.css",
+    "main.js": "/LandingFinances/static/js/main.2dde5824.js",
+    "static/js/453.f85ba7ea.chunk.js": "/LandingFinances/static/js/453.f85ba7ea.chunk.js",
+    "static/media/celular.png": "/LandingFinances/static/media/celular.a36fae3ede691b8f0ab6.png",
+    "static/media/background.jpg": "/LandingFinances/static/media/background.ec2e60fd6d9e31e81f49.jpg",
+    "index.html": "/LandingFinances/index.html",
+    "main.8a739c81.css.map": "/LandingFinances/static/css/main.8a739c81.css.map",
+    "main.2dde5824.js.map": "/LandingFinances/static/js/main.2dde5824.js.map",
+    "453.f85ba7ea.chunk.js.map": "/LandingFinances/static/js/453.f85ba7ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e582eeec.css",
-    "static/js/main.a958a798.js"
+    "static/css/main.8a739c81.css",
+    "static/js/main.2dde5824.js"
   ]
 }
