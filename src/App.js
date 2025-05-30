@@ -216,7 +216,7 @@ function App() {
             <h1 className='text-center text-3xl font-montserrat animate-in fade-in zoom-in text-white'>MONAI</h1>
             <div className='m-4'>
 
-              <a href="#" class="hover:underline me-4 md:me-6 text-white text-center p-8">Conoce el Desarrollador</a>
+              <a href="https://zonix480.github.io/Portfolio/" class="hover:underline me-4 md:me-6 text-white text-center p-8">Conoce el Desarrollador</a>
 
             </div>
 
